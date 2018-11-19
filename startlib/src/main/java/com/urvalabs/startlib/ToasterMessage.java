@@ -10,4 +10,17 @@ public class ToasterMessage {
         Toast.makeText(c,message,Toast.LENGTH_SHORT).show();
 
     }
+    public static void s1(Context c, String message)
+    {
+
+        Toast.makeText(c,message,Toast.LENGTH_SHORT).show();
+
+    }
+
+    public static void s2(Context c, String message)
+    {
+
+        Toast.makeText(c,message,Toast.LENGTH_SHORT).show();
+
+    }
 }
